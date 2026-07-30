@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be5d15ad-e96a-40d9-8034-adbb5107ca70" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="69" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/.idea/api-gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/api-gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/eureka-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/inventory-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/order-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000004438427" />
+      <entry key="S2" value="1.0089437521027809" />
+      <entry key="S5" value="1.3629599085886777" />
+      <entry key="S10" value="2.490737607051933" />
+      <entry key="S30" value="6.478006825126111" />
+      <entry key="S60" value="10.707522752189117" />
+      <entry key="M2" value="17.4006551231326" />
+      <entry key="M5" value="32.620295256001846" />
+      <entry key="M10" value="64.40859636449724" />
+      <entry key="M15" value="101.14237992748289" />
+      <entry key="M30" value="189.06945017977728" />
+      <entry key="H1" value="276.7842444404098" />
+      <entry key="H2" value="340.4051783699558" />
+      <entry key="H4" value="378.9831735683753" />
+      <entry key="D1" value="415.2522024083547" />
+      <entry key="W1" value="421.8826136071783" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.8827029962906549" />
+      <entry key="MS500" value="0.975373911779043" />
+      <entry key="S2" value="1.0593204231825972" />
+      <entry key="S5" value="1.3358694473987467" />
+      <entry key="S10" value="1.6276852978646166" />
+      <entry key="S30" value="2.404049499715596" />
+      <entry key="S60" value="3.8221201157080933" />
+      <entry key="M2" value="7.429740442654586" />
+      <entry key="M5" value="15.343245974699698" />
+      <entry key="M10" value="23.64119440986028" />
+      <entry key="M15" value="30.51718727583296" />
+      <entry key="M30" value="46.78195045036439" />
+      <entry key="H1" value="64.4475635846682" />
+      <entry key="H2" value="78.17368757294729" />
+      <entry key="H4" value="86.83375447749617" />
+      <entry key="D1" value="95.1894274101422" />
+      <entry key="W1" value="96.73833590230616" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8827288369068768" />
+      <entry key="MS500" value="1.0962661047065525" />
+      <entry key="S2" value="1.6243946211438567" />
+      <entry key="S5" value="2.394834793357112" />
+      <entry key="S10" value="3.8155119970813547" />
+      <entry key="S30" value="8.581766059431972" />
+      <entry key="S60" value="14.253722822271898" />
+      <entry key="M2" value="24.566689326570675" />
+      <entry key="M5" value="47.75971159614248" />
+      <entry key="M10" value="87.89957222195011" />
+      <entry key="M15" value="131.53236298919037" />
+      <entry key="M30" value="235.75571457137087" />
+      <entry key="H1" value="341.1667519176246" />
+      <entry key="H2" value="418.5397223077217" />
+      <entry key="H4" value="465.7952825161692" />
+      <entry key="D1" value="510.437690155958" />
+      <entry key="W1" value="518.6203779264449" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HDrQka1w6BXNxHCfK0fsVLOCC9" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Modul04-Microservice-Rikkei/md04-rikkei/inventory-service/src/main/java/re/edu/inventoryservice/service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Modul04-Microservice-Rikkei\md04-rikkei\inventory-service\src\main\java\re\edu\inventoryservice\service" />
+      <recent name="C:\Modul04-Microservice-Rikkei\md04-rikkei\inventory-service\src\main\java\re\edu\inventoryservice\repository" />
+      <recent name="C:\Modul04-Microservice-Rikkei\md04-rikkei\inventory-service\src\main\java\re\edu\inventoryservice\entity" />
+      <recent name="C:\Modul04-Microservice-Rikkei\md04-rikkei\inventory-service\src\main\java\re\edu\inventoryservice\event" />
+      <recent name="C:\Modul04-Microservice-Rikkei\md04-rikkei\inventory-service\src\main\java\re\edu\inventoryservice\dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="re.edu.api-gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="re.edu.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="eureka-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="re.edu.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="order-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="re.edu.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be5d15ad-e96a-40d9-8034-adbb5107ca70" name="Changes" comment="" />
+      <created>1785413467084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785413467084</updated>
+      <workItem from="1785413468709" duration="5225000" />
+      <workItem from="1785420148317" duration="19000" />
+      <workItem from="1785420189806" duration="1962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
